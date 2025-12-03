@@ -1,0 +1,10 @@
+numpy
+scipy
+tqdm
+pandas
+plotly
+torchdiffeq
+librosa
+soundfile
+matplotlib
+librosa
